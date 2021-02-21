@@ -1,0 +1,6 @@
+framework module Pods_PersonData {
+  umbrella header "Pods-PersonData-umbrella.h"
+
+  export *
+  module * { export * }
+}
